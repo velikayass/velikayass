@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @velikayass
 - 🌱 I’m currently learning JavaScript now.
 - 💞️ I’m looking to collaborate on everything that help me to learn.
-- 📫 How to reach me instagram.com/velikayass/
+- 📫 How to reach me www.instagram.com/velikayass/
 
 <!---
 velikayass/velikayass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
